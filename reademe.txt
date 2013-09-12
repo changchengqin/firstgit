@@ -5,3 +5,4 @@ Add Fouth Line.
 Add Fiveth Line.
 Git tracks changes of files.
 Test.
+Creating a new branch is quick.
