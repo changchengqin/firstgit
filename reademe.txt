@@ -3,3 +3,4 @@ Add Second Line.
 Add Third Line.
 Add Fouth Line.
 Add Fiveth Line.
+Git tracks changes of files.
